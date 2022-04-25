@@ -1,2 +1,1 @@
-# Kickstarter: Challenge1
-UNCC Assignments
+# Advanced Microsoft Excel
